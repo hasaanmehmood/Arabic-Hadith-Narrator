@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="lib" path="D:/poi-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="lib" path="D:/poi-contrib-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="lib" path="D:/poi-scratchpad-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
